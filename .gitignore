@@ -1,0 +1,12 @@
+# Build output - regenerated when the plugin is compiled
+Binaries/
+Intermediate/
+
+# IDE / OS clutter
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+Thumbs.db
+.DS_Store
